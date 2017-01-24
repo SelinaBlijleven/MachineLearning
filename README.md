@@ -1,2 +1,2 @@
 # MachineLearning
-Machine Learning (Bachelor course)
+These are two assignment from the bachelor course "Machine Learning".
